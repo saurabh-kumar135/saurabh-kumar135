@@ -4,12 +4,6 @@ I am Saurabh, a **Full Stack Web Developer** and **Machine Learning Engineer** w
 
 I love contributing to open-source projects and exploring cutting-edge technologies in AI/ML and web development.
 
-## 🔭 What I'm Currently Working On
-
-- Building production-grade **MERN Stack** applications
-- Exploring **Large Language Models**, **AI Agents**, and **Agentic AI** workflows
-- Learning **LangChain** & **LangGraph** for multi-agent systems
-
 ## 🛠️ Tech Stack
 
 **Languages:** JavaScript, Python, C++, HTML/CSS  
@@ -17,26 +11,15 @@ I love contributing to open-source projects and exploring cutting-edge technolog
 **Backend:** Node.js, Express.js  
 **Databases:** MongoDB, MySQL  
 **AI/ML:** TensorFlow, Keras, LangChain, LangGraph, Groq  
-**Tools:** Git, Docker, Vercel, Render, VS Code
+**Tools:** Git, Docker, Vercel, Render, VS Code,Antigravity,Github-copilot
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**HavenTo**](https://github.com/saurabh-kumar135/HavenTo-Accommodation-Booking-Platform-) | Full-stack accommodation booking platform similar to Airbnb | React, Node.js, MongoDB, Express |
-| [**StudyMate**](https://github.com/saurabh-kumar135/StudyMate) | AI-powered study platform with Gemini AI tutor, quiz generation & analytics | React, Node.js, MongoDB, Gemini AI |
-| [**Brain Tumor Detection**](https://github.com/saurabh-kumar135/brain-tumor-detection) | Medical AI system for detecting brain tumors from MRI scans using deep learning | React, Express, TensorFlow, Keras |
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabh-kumar135&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-kumar135&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh-kumar135&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+| Project                                                                                    | Description                                                                     | Tech Stack                         |
+| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- | ---------------------------------- |
+| [**HavenTo**](https://github.com/saurabh-kumar135/HavenTo-Accommodation-Booking-Platform-) | Full-stack accommodation booking platform similar to Airbnb                     | React, Node.js, MongoDB, Express   |
+| [**StudyMate**](https://github.com/saurabh-kumar135/StudyMate)                             | AI-powered study platform with Gemini AI tutor, quiz generation & analytics     | React, Node.js, MongoDB, Gemini AI |
+| [**Brain Tumor Detection**](https://github.com/saurabh-kumar135/brain-tumor-detection)     | Medical AI system for detecting brain tumors from MRI scans using deep learning | React, Express, TensorFlow, Keras  |
 
 ## 🤝 Connect With Me
 
